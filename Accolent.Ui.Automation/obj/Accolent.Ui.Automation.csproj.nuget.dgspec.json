@@ -40,6 +40,14 @@
         "net48": {
           "targetAlias": "net48",
           "dependencies": {
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "ExtentReports.Core": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.1.0, )"
@@ -52,6 +60,10 @@
               "target": "Package",
               "version": "[4.2.1, )"
             },
+            "POM.Selenium": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Selenium.Support": {
               "target": "Package",
               "version": "[4.1.0, )"
@@ -59,6 +71,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.1.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.52, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
