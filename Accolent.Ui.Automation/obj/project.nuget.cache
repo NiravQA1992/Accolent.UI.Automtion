@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WODTsEozjfbdhTBMyyU7kOz9lrFV2I16TwA0H6u+qDHiq+STMANUEhG/jjukNrjpqtdOtmZJDQ6UjRigSVHEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nirav\\OneDrive\\Desktop\\Accolent.UI.Automation\\Accolent.Ui.Automation\\Accolent.Ui.Automation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nirav\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\nirav\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\nirav\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\nirav\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\nirav\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\nirav\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
